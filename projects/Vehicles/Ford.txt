@@ -1,0 +1,5 @@
+id,brand,mileage,production_year
+2,Ford,22982,2000
+5,Ford,59549,2005
+7,Ford,45742,1994
+12,Ford,23671,1971
